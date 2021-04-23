@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as Software Engineer at [Globo.com](https://www.globo.com/) 
 - 🌱 I’m currently responsible for creating adaptable authentication and authorization platforms at scale
 - 👯 I’m looking to collaborate on great OSS projects with awesome people ❤️ 
-- 🤔 I want some help with [go-oknotok](https://github.com/pedrolopesme/go-oknotok) - a Circuit Break written in Go
+- 🤔 I want some help with [oknotok](https://github.com/pedrolopesme/oknotok) - a Circuit Break written in Go
 - 💬 Ask me about OpenId Connect :-) 
 - 📫 How to reach me: <a href="https://twitter.com/pedrolopesme">
   <img  alt="Pedro Mendes | Twitter" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -21,7 +21,7 @@
 
 | repo | language | description |
 |-|-|-|
-| [go-oknotok](https://github.com/pedrolopesme/go-oknotok) | Go | A Golang Circuit Break |
+| [oknotok](https://github.com/pedrolopesme/oknotok) | Go | A Golang Circuit Break |
 | [go-lru-cache](https://github.com/pedrolopesme/go-lru-cache) | Go | Go LRU memory-based cache |
 | [vacuum](https://github.com/pedrolopesme/vacuum) | Go | A small and configurable logs cleaner tool |
 | [call-it](https://github.com/pedrolopesme/call-it) | Go | CLI program to execute multiple calls to an URL and create simple benchmarks|
