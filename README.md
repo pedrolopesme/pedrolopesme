@@ -7,7 +7,6 @@
 - 🔭 I’m currently working as Software Engineer at [Globo.com](https://www.globo.com/) 
 - 🌱 I’m currently responsible for creating adaptable authentication and authorization platforms at scale
 - 👯 I’m looking to collaborate on great OSS projects with awesome people ❤️ 
-- 🤔 I want some help with [oknotok](https://github.com/pedrolopesme/oknotok) - a Circuit Break written in Go
 - 💬 Ask me about OpenId Connect :-) 
 - 📫 How to reach me: <a href="https://twitter.com/pedrolopesme">
   <img  alt="Pedro Mendes | Twitter" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
