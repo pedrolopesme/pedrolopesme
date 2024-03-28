@@ -20,6 +20,7 @@
 
 | repo | language | description |
 |-|-|-|
+| [jaws](https://github.com/pedrolopesme/jaws) | Go | JWT Swiss Army Knife |
 | [go-lru-cache](https://github.com/pedrolopesme/go-lru-cache) | Go | Go LRU memory-based cache |
 | [vacuum](https://github.com/pedrolopesme/vacuum) | Go | A small and configurable logs cleaner tool |
 | [call-it](https://github.com/pedrolopesme/call-it) | Go | CLI program to execute multiple calls to an URL and create simple benchmarks|
