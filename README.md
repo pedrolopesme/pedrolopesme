@@ -8,11 +8,20 @@
 - 🌱 I’m currently responsible for creating adaptable authentication and authorization platforms at scale
 - 👯 I’m looking to collaborate on great OSS projects with awesome people ❤️ 
 - 💬 Ask me about OpenId Connect :-) 
-- 📫 How to reach me: <a href="https://twitter.com/pedrolopesme">
-  <img  alt="Pedro Mendes | Twitter" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> <a href="https://www.linkedin.com/in/pedrolopesme/">
-  <img alt="Pedro Mendes' LinkedIn" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> <a href="mailto:pedrolopesme@gmail.com"> ✉️ </a>
+
+## Connect with Me! 🌐
+
+I'm always open to connecting and sharing insights. Feel free to reach out through any of the following platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/pedrolopesme/)
+- [X](https://x.com/pedrolopesme)
+- [Medium](https://medium.com/@pedrolopesme)
+- [Substack](https://substack.com/@pedrolopesme?utm_source=user-menu)
+- [Bluesky](https://bsky.app/profile/pedrolopesme.bsky.social)
+
+Let's stay in touch! 🚀
+
+
 
 <hr />
 
