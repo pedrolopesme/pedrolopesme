@@ -29,16 +29,12 @@ Let's stay in touch! 🚀
 
 | repo | language | description |
 |-|-|-|
-| [jaws](https://github.com/pedrolopesme/jaws) | Go | JWT Swiss Army Knife |
-| [go-lru-cache](https://github.com/pedrolopesme/go-lru-cache) | Go | Go LRU memory-based cache |
-| [vacuum](https://github.com/pedrolopesme/vacuum) | Go | A small and configurable logs cleaner tool |
 | [call-it](https://github.com/pedrolopesme/call-it) | Go | CLI program to execute multiple calls to an URL and create simple benchmarks|
-| [cinepedia](https://github.com/pedrolopesme/cinepedia) | Java | Cinepedia - An Android Movie Guide App|
+| [jaws](https://github.com/pedrolopesme/jaws) | Go | JWT Swiss Army Knife |
 | [Lambda Monitor](https://github.com/pedrolopesme/lambda-monitor) | Go | AWS Lambda Monitor |
 | [S3 Tools](https://github.com/pedrolopesme/s3tools) | Go | AWS S3 common utilities |
 | [ISS Tracker](https://github.com/pedrolopesme/iss-tracker) | Go | An AWS Lambda function to track ISS coordinate and send it to a SQS queue |
 | [ISS Notifier](https://github.com/pedrolopesme/iss-notifier) | Go | AWS SQS consumer that checks if a given ISS location is within a Lat/Lon range | [MoneyLog](https://github.com/pedrolopesme/Android-Moneylog) | Java | Simple android app to track your expenses |
-| [BakingApp](https://github.com/pedrolopesme/bakingApp) | Java | Android Backing App |
 | [Hypermnesia](https://github.com/pedrolopesme/hypermnesia) | Javascript | Fast and lightweight NodeJS cache engine |
 | [Star Wars Plugin](https://github.com/pedrolopesme/starwars-plugin) | Java | Star Wars Jenkins Plugin - May the force be with you |
 | [Gem Explorer](https://github.com/pedrolopesme/gemexplorer) | Javascript | With gemExplorer you can make searches on rubygems.org's API through a simple Google Chrome Extension. |
